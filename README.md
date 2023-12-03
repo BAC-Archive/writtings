@@ -5,4 +5,4 @@ if you don't know what to do, come here from time to time to figure out tasks, i
 - Collect actual content: [Everyone] (To be detailed)
 - Use Flask and a MySQL database and create a RESTFUL API to write/get data: [someone]
 - Make a basic yet modern UI frontend using react and typescript for the site: [Anass Zakar]
-- UWU
+- UWU [notwhouwu]
